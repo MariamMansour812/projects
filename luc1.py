@@ -13,3 +13,6 @@ def factorial(n):
         fact=fact*i
     return fact
 print(factorial(6))
+###################################################f
+for i in range(1,5):
+    print(i)
