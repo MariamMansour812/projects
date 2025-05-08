@@ -3,4 +3,8 @@ def factorial(n):
     return n
   else:
     n*factorial(n-1)
+
+
+def print():
+  print()
     
